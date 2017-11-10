@@ -92,11 +92,17 @@ AI 빅데이터 분석가 양성 과정
             a = Artii::Base.new(font:'사용할 폰트')
             a.asciify('바꿔줄 문자열')
             ```
+            - http://patorjk.com/software/taag/#p=display&f=Doh&t=Type%20Something%20
+            - font : http://www.figlet.org/fontdb.cgi
+            
         * 개발을 위해 필요한 Gem
             1) gem 'rails_db'
             2) gem 'pry-rails' : https://github.com/rweng/pry-rails
             3) gem 'awesome_print' 
-        
+    3. [rails-asked](https://github.com/jjuya/LikeLion_rails-asked)
+        * question : 질문을 받는 페이지와 보여주는 페이지(작성자를 입력안할 경우 익명으로 DB에 입력)
+        * sign-up
+        * login/logout
 ---
 
 ## Week 2: ???
